@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/talita.mota/Documents/aprendizagem-maquina-i/mlruns/814647620039854383/3870e1f7a9bc49e5a3d6b51700d44c20/artifacts
+end_time: 1723326797881
+entry_point_name: ''
+experiment_id: '814647620039854383'
+lifecycle_stage: active
+run_id: 3870e1f7a9bc49e5a3d6b51700d44c20
+run_name: MLP_F1
+run_uuid: 3870e1f7a9bc49e5a3d6b51700d44c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723326649476
+status: 3
+tags: []
+user_id: talita.mota

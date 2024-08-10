@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/talita.mota/Documents/aprendizagem-maquina-i/mlruns/639193101501375778/e1267fdc7d464903a6bcc118262d5b63/artifacts
+end_time: 1723326343903
+entry_point_name: ''
+experiment_id: '639193101501375778'
+lifecycle_stage: active
+run_id: e1267fdc7d464903a6bcc118262d5b63
+run_name: KNN_ACURACIA
+run_uuid: e1267fdc7d464903a6bcc118262d5b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723326339158
+status: 3
+tags: []
+user_id: talita.mota

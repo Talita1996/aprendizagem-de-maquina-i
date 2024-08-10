@@ -1,0 +1,38 @@
+artifact_path: KNN_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.15.1
+model_size_bytes: 235524
+model_uuid: 4324e4a084ee4b7384c119fe62ea4462
+run_id: 5ca23ea63d644a1a98c3d98b07380c0e
+signature:
+  inputs: '[{"type": "double", "name": "LB", "required": true}, {"type": "double",
+    "name": "AC", "required": true}, {"type": "double", "name": "FM", "required":
+    true}, {"type": "double", "name": "UC", "required": true}, {"type": "double",
+    "name": "DL", "required": true}, {"type": "double", "name": "DS", "required":
+    true}, {"type": "double", "name": "DP", "required": true}, {"type": "double",
+    "name": "ASTV", "required": true}, {"type": "double", "name": "MSTV", "required":
+    true}, {"type": "double", "name": "ALTV", "required": true}, {"type": "double",
+    "name": "MLTV", "required": true}, {"type": "double", "name": "Width", "required":
+    true}, {"type": "double", "name": "Min", "required": true}, {"type": "double",
+    "name": "Max", "required": true}, {"type": "double", "name": "Nmax", "required":
+    true}, {"type": "double", "name": "Nzeros", "required": true}, {"type": "double",
+    "name": "Mode", "required": true}, {"type": "double", "name": "Mean", "required":
+    true}, {"type": "double", "name": "Median", "required": true}, {"type": "double",
+    "name": "Variance", "required": true}, {"type": "double", "name": "Tendency",
+    "required": true}, {"type": "double", "name": "CLASS", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-08-10 21:45:20.865078'

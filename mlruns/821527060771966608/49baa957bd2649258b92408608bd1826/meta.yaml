@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/talita.mota/Documents/aprendizagem-maquina-i/mlruns/821527060771966608/49baa957bd2649258b92408608bd1826/artifacts
+end_time: 1723395162566
+entry_point_name: ''
+experiment_id: '821527060771966608'
+lifecycle_stage: active
+run_id: 49baa957bd2649258b92408608bd1826
+run_name: DecisionTree_F1
+run_uuid: 49baa957bd2649258b92408608bd1826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723395157544
+status: 3
+tags: []
+user_id: talita.mota

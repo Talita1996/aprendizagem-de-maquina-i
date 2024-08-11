@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/talita.mota/Documents/aprendizagem-maquina-i/mlruns/821527060771966608/525950e445144264830828f9227eca75/artifacts
+end_time: 1723395167917
+entry_point_name: ''
+experiment_id: '821527060771966608'
+lifecycle_stage: active
+run_id: 525950e445144264830828f9227eca75
+run_name: DecisionTree_ACURACIA
+run_uuid: 525950e445144264830828f9227eca75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723395162580
+status: 3
+tags: []
+user_id: talita.mota

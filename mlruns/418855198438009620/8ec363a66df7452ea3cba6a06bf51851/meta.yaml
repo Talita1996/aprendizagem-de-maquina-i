@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/talita.mota/Documents/aprendizagem-maquina-i/mlruns/418855198438009620/8ec363a66df7452ea3cba6a06bf51851/artifacts
+end_time: 1723402241014
+entry_point_name: ''
+experiment_id: '418855198438009620'
+lifecycle_stage: active
+run_id: 8ec363a66df7452ea3cba6a06bf51851
+run_name: NaiveBayes_F1
+run_uuid: 8ec363a66df7452ea3cba6a06bf51851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723402236937
+status: 3
+tags: []
+user_id: talita.mota
